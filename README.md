@@ -82,8 +82,6 @@ I love crafting clean architectures, optimizing performance, and turning complex
   <img src="https://raw.githubusercontent.com/mohamedmansour404/mohamedmansour404/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="80%" />
 </p>
 
-> 🐍 *Snake now has a dark-neon theme for better contrast and cleaner look!*
-
 ---
 
 ## 💡 Dynamic Inspiration
