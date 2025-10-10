@@ -1,43 +1,61 @@
 # 👋 Hi, I'm Mohamed Mansour  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Node.js+%7C+NestJS;Crafting+Scalable+APIs+with+Clean+Code;Passionate+about+Performance+%26+Architecture" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="500" alt="Backend Developer at work" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer coding animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Node.js+%7C+NestJS;Crafting+Scalable+APIs+with+Clean+Code;Passionate+about+Performance+%26+Architecture" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I'm a **Backend Engineer** with a passion for building robust, scalable, and efficient systems. My expertise lies in creating **RESTful APIs**, **microservices**, and **real-time applications** using modern JavaScript frameworks. I thrive on solving complex problems, optimizing performance, and writing clean, maintainable code.  
+I'm a **Backend Engineer** passionate about building **robust**, **scalable**, and **high-performance** systems.  
+I love crafting clean architectures, optimizing performance, and turning complex ideas into elegant code.  
 
-🔍 **What I do best**:  
-- Designing and implementing **high-performance APIs** with **Node.js**, **NestJS**, and **Express**.  
-- Managing databases like **MongoDB**, **PostgreSQL**, **MySQL**, and caching with **Redis**.  
-- Building **secure authentication systems** (JWT, OAuth, etc.) and real-time features with **WebSockets**.  
-- Streamlining workflows with **Docker**, **GitHub Actions**, and **CI/CD pipelines**.  
+🔍 **What I do best**  
+- Design & implement **high-performance APIs** using **Node.js**, **NestJS**, **Express**  
+- Manage **MongoDB**, **PostgreSQL**, **MySQL**, and caching with **Redis**  
+- Build **secure authentication** (JWT, OAuth) & **real-time apps** (WebSockets)  
+- Automate deployments with **Docker**, **GitHub Actions**, and **CI/CD pipelines**  
 
-🚀 **Currently exploring**: **GraphQL**, **gRPC**, **Kubernetes**, and advanced **cloud architecture** (AWS, GCP).  
+🚀 **Currently exploring:** GraphQL · gRPC · Kubernetes · Cloud (AWS & GCP)
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nest,mongodb,postgresql,mysql,redis,docker,kubernetes,graphql,aws,gcp,git,github,postman,vscode,jest,linux" alt="Tech Stack Icons" />
+  <table>
+    <tr>
+      <td align="center" width="150"><b>Backend</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,nest,express,ts,js,jest" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Databases</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>DevOps & Cloud</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,github,git" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Tools</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vscode,postman,linux" /></td>
+    </tr>
+  </table>
 </p>
 
 ---
 
 ## 🔥 Why I Stand Out
 
-- **Performance-Driven**: I optimize backend systems for speed and scalability, ensuring seamless user experiences.  
-- **Clean Code Advocate**: I write modular, well-documented code that’s easy to maintain and extend.  
-- **Problem Solver**: I tackle complex challenges with creative, efficient solutions.  
-- **DevOps Enthusiast**: I integrate CI/CD pipelines and containerization for smooth deployments.  
+- ⚡ **Performance-Driven:** I build fast, scalable systems.  
+- 🧠 **Clean Code Advocate:** Writing maintainable, modular, well-documented code.  
+- 🧩 **Problem Solver:** Turning complex problems into simple, elegant solutions.  
+- 🚢 **DevOps Enthusiast:** Seamless deployments with containers & CI/CD.
 
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Coding animation" />
@@ -66,10 +84,10 @@ I'm a **Backend Engineer** with a passion for building robust, scalable, and eff
 
 ---
 
-## 💡 Inspiration
+## 💡 Dynamic Inspiration
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines='Code+is+poetry+when+written+with+passion.';–+Unknown" alt="Inspirational Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines='Code+is+poetry+when+written+with+passion.';Keep+it+simple,+make+it+work,+then+make+it+better.;Clean+architecture+isn't+a+goal,+it's+a+habit.;Performance+isn't+magic—it's+discipline." alt="Dynamic Inspirational Quotes" />
 </p>
 
 ---
@@ -88,6 +106,8 @@ I'm a **Backend Engineer** with a passion for building robust, scalable, and eff
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" height="50" width="100%" alt="Footer animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00D4FF,100:6C63FF&section=footer" width="100%" alt="Footer Wave" />
 </p>
