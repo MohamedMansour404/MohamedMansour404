@@ -31,9 +31,11 @@ jobs:
           echo "QUOTE=${quotes[$RANDOM % ${#quotes[@]}]}" >> $GITHUB_ENV
 
       - name: Update README with new quote
+        env:
+          QUOTE: ${{ env.QUOTE }}
         run: |
-          echo "📝 Updating README..."
-          perl -0777 -pi -e "s/<!--START_QUOTE-->.*?<!--END_QUOTE-->/<!--START_QUOTE-->\n<p align=\"center\">\n  ${QUOTE}\n<\/p>\n<!--END_QUOTE-->/s" README.md
+          echo "📝 Updating README with quote: $QUOTE"
+          perl -0777 -pi -e 's/<!--START_QUOTE-->.*?<!--END_QUOTE-->/<!--START_QUOTE-->\n<p align="center">\n  '"$QUOTE"'\n<\/p>\n<!--END_QUOTE-->/s' README.md
 
       - name: Commit and push if changed
         run: |
