@@ -1,0 +1,43 @@
+name: Update Dynamic Quote
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # Runs every day at 6 AM UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate random quote
+        id: quote
+        run: |
+          quotes=(
+            "\"Code is like humor. When you have to explain it, it’s bad.\" – Cory House"
+            "\"First, solve the problem. Then, write the code.\" – John Johnson"
+            "\"Simplicity is the soul of efficiency.\" – Austin Freeman"
+            "\"Talk is cheap. Show me the code.\" – Linus Torvalds"
+            "\"Experience is the name everyone gives to their mistakes.\" – Oscar Wilde"
+            "\"Make it work, make it right, make it fast.\" – Kent Beck"
+            "\"Programs must be written for people to read, and only incidentally for machines to execute.\" – Abelson & Sussman"
+          )
+          echo "QUOTE=${quotes[$RANDOM % ${#quotes[@]}]}" >> $GITHUB_ENV
+
+      - name: Update README with new quote
+        run: |
+          sed -i "/<!--START_QUOTE-->/, /<!--END_QUOTE-->/c\\  <!--START_QUOTE-->\n  ${QUOTE}\n  <!--END_QUOTE-->" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && echo "No changes to commit" || git commit -m "✨ Update daily quote"
+          git push
