@@ -71,7 +71,7 @@ I love crafting clean architectures, optimizing performance, and turning complex
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedmansour404&theme=dracula&hide_border=true&area=true&color=00D4FF&line=00D4FF&point=FFFFFF" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedmansour404&theme=react-dark&hide_border=true&area=true&color=00D4FF&line=00D4FF&point=FFFFFF" width="80%" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ I love crafting clean architectures, optimizing performance, and turning complex
 ## 🐍 Contribution Flow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohamedmansour404/mohamedmansour404/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="80%" />
+  <img src="https://github.com/mohamedmansour404/mohamedmansour404/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="80%" />
 </p>
 
 ---
@@ -91,8 +91,6 @@ I love crafting clean architectures, optimizing performance, and turning complex
   "Code is poetry when written with passion." – Unknown
   <!--END_QUOTE-->
 </p>
-
-
 
 ---
 
