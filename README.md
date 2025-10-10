@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Mohamed Mansour  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="Developer coding minimal animation" />
+  <img src="https://i.imgur.com/hg8t9vU.gif" width="600" alt="Mohamed Mansour | Backend Engineer neon intro" />
 </p>
+
 
 
 <p align="center">
