@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Mansour  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDZrNG9wbWg4eXVxdHQyOWVjaGszM3ozbTk5YW9oeGw0NDhtdmV0dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vzO0Vc8b2VBLi/giphy.gif" width="600" alt="Mohamed Mansour | Backend Engineer" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhreHNqcWh1OHZ2NWU0dG1nM3J6bG9pajZucGZwaTBodjliY3MxbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Lny6Rw04nsOOc/giphy.gif" width="600" alt="Mohamed Mansour | Backend Engineer" />
 </p>
 
 
