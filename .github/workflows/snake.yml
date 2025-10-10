@@ -22,7 +22,7 @@ jobs:
         with:
           github_user_name: mohamedmansour404
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00FFFF&background=0D1117&color_dots=#00D4FF,#8A2BE2,#39FF14,#FF00FF,#FF6EC7
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#39FF14&background=#0D1117&color_dots=#00D4FF,#8A2BE2,#FF6EC7,#FF00FF,#FFFF00
 
       - name: Push changes
         uses: crazy-max/ghaction-github-pages@v3.1.0
