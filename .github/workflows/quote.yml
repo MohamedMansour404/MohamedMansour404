@@ -1,9 +1,12 @@
 name: Update Dynamic Quote
 
 on:
+  push:
+    branches:
+      - main       
   schedule:
-    - cron: "0 6 * * *"  # Runs every day at 6 AM UTC
-  workflow_dispatch:
+    - cron: "0 6 * * *"  
+  workflow_dispatch:       
 
 permissions:
   contents: write
@@ -27,15 +30,15 @@ jobs:
             "\"Experience is the name everyone gives to their mistakes.\" – Oscar Wilde"
             "\"Make it work, make it right, make it fast.\" – Kent Beck"
             "\"Programs must be written for people to read, and only incidentally for machines to execute.\" – Abelson & Sussman"
+            "\"Clean code always looks like it was written by someone who cares.\" – Robert C. Martin"
+            "\"The best error message is the one that never shows up.\" – Thomas Fuchs"
           )
           echo "QUOTE=${quotes[$RANDOM % ${#quotes[@]}]}" >> $GITHUB_ENV
 
       - name: Update README with new quote
-        env:
-          QUOTE: ${{ env.QUOTE }}
         run: |
-          echo "📝 Updating README with quote: $QUOTE"
-          perl -0777 -pi -e 's/<!--START_QUOTE-->.*?<!--END_QUOTE-->/<!--START_QUOTE-->\n<p align="center">\n  '"$QUOTE"'\n<\/p>\n<!--END_QUOTE-->/s' README.md
+          echo "📝 Updating README..."
+          perl -0777 -pi -e "s/<!--START_QUOTE-->.*?<!--END_QUOTE-->/<!--START_QUOTE-->\n<p align=\"center\">\n  ${QUOTE}\n<\/p>\n<!--END_QUOTE-->/s" README.md
 
       - name: Commit and push if changed
         run: |
