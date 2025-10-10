@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Mansour  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="600" alt="Coding animation in dark theme" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="Developer coding minimal animation" />
 </p>
 
 
