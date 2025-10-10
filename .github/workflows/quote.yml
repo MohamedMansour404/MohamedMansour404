@@ -32,7 +32,8 @@ jobs:
 
       - name: Update README with new quote
         run: |
-          sed -i "/<!--START_QUOTE-->/, /<!--END_QUOTE-->/c\\  <!--START_QUOTE-->\n  ${QUOTE}\n  <!--END_QUOTE-->" README.md
+          echo "📝 Updating README..."
+          perl -0777 -pi -e "s/<!--START_QUOTE-->.*?<!--END_QUOTE-->/<!--START_QUOTE-->\n  ${QUOTE}\n  <!--END_QUOTE-->/s" README.md
 
       - name: Commit and push if changed
         run: |
