@@ -33,7 +33,7 @@ jobs:
       - name: Update README with new quote
         run: |
           echo "📝 Updating README..."
-          perl -0777 -pi -e "s/<!--START_QUOTE-->.*?<!--END_QUOTE-->/<!--START_QUOTE-->\n  ${QUOTE}\n  <!--END_QUOTE-->/s" README.md
+          perl -0777 -pi -e "s/<!--START_QUOTE-->.*?<!--END_QUOTE-->/<!--START_QUOTE-->\n<p align=\"center\">\n  ${QUOTE}\n<\/p>\n<!--END_QUOTE-->/s" README.md
 
       - name: Commit and push if changed
         run: |
