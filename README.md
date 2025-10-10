@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Mohamed Mansour  
 
 <p align="center">
-  <img src="https://i.imgur.com/hg8t9vU.gif" width="600" alt="Mohamed Mansour | Backend Engineer neon intro" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="600" alt="Mohamed Mansour | Backend Engineer" />
 </p>
+
 
 
 
