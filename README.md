@@ -96,7 +96,7 @@ I love crafting clean architectures, optimizing performance, and turning complex
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="[https://linkedin.com/in/mohamedmansour404](https://www.linkedin.com/in/mohamed-mansour-232333346/)" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-mansour-232333346/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mohamedmansour.personal.@gmail.com">
