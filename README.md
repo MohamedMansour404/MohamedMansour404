@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Mansour  
 
 <p align="center">
-  <img src="https://i.imgur.com/HhH5m8E.gif" width="600" alt="Backend Developer working in neon dark setup" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Backend Developer coding animation" />
 </p>
 
 
