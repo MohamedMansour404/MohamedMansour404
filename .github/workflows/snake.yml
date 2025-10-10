@@ -14,22 +14,15 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
-
-      - name: Ensure dist folder exists
-        run: mkdir -p dist
 
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: mohamedmansour404
-          args: >
-            --output dist/github-contribution-grid-snake-dark.svg
-            --palette github-dark
-            --color-snake "#39FF14"
-            --background "#0D1117"
-            --color-dots "#00D4FF,#8A2BE2,#FF6EC7,#FF00FF,#FFFF00"
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00FFFF&background=0D1117&color_dots=#00D4FF,#8A2BE2,#39FF14,#FF00FF,#FF6EC7
 
       - name: Push changes
         uses: crazy-max/ghaction-github-pages@v3.1.0
