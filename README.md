@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Mansour  
 
 <p align="center">
-  <img src="https://i.imgur.com/4M7IWwZ.gif" width="600" alt="Backend Developer coding in neon style" />
+  <img src="https://i.imgur.com/ZKZbJkR.gif" width="600" alt="Backend Developer coding in neon style" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ I love crafting clean architectures, optimizing performance, and turning complex
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <table>
+  <table style="border: none; background-color: #0d1117; border-radius: 10px; color: #fff;">
     <tr>
       <td align="center" width="150"><b>Backend</b></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,nest,express,ts,js,jest" /></td>
@@ -71,7 +71,7 @@ I love crafting clean architectures, optimizing performance, and turning complex
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedmansour404&theme=react-dark&hide_border=true&area=true&color=00D4FF&line=00D4FF&point=FFFFFF" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedmansour404&theme=tokyo-night&hide_border=true&area=true&color=00D4FF&line=00D4FF&point=FFFFFF" width="80%" />
 </p>
 
 ---
@@ -79,8 +79,10 @@ I love crafting clean architectures, optimizing performance, and turning complex
 ## 🐍 Contribution Flow
 
 <p align="center">
-  <img src="https://github.com/mohamedmansour404/mohamedmansour404/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="80%" />
+  <img src="https://raw.githubusercontent.com/mohamedmansour404/mohamedmansour404/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="80%" />
 </p>
+
+> 🐍 *Snake now has a dark-neon theme for better contrast and cleaner look!*
 
 ---
 
@@ -90,19 +92,18 @@ I love crafting clean architectures, optimizing performance, and turning complex
 "Code is poetry when written with passion." – Unknown
 <!--END_QUOTE-->
 
-
 ---
 
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-mansour-232333346/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-mansour-232333346/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mohamedmansour.personal.@gmail.com">
+  <a href="mailto:mohamedmansour.personal.@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/mohamedmansour404">
+  <a href="https://github.com/mohamedmansour404" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
