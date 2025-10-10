@@ -90,6 +90,7 @@ I love crafting clean architectures, optimizing performance, and turning complex
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=550&lines=Code+is+poetry+when+written+with+passion.;Keep+it+simple,+make+it+work,+then+make+it+better.;Clean+architecture+isn't+a+goal,+it's+a+habit.;Performance+isn't+magic—it's+discipline." alt="Dynamic Inspirational Quotes" />
 </p>
 
+
 ---
 
 ## 🌐 Let's Connect
