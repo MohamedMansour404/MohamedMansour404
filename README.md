@@ -107,6 +107,9 @@ I love crafting clean architectures, optimizing performance, and turning complex
   <a href="https://github.com/mohamedmansour404" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.facebook.com/mohammed.mansour.679852/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
 ---
